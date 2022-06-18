@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+#first-page {
+  background-image: url("../images/cinema.jpg");
+  background-size: 100%;
+  
+}
